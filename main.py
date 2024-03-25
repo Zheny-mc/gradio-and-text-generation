@@ -1,6 +1,6 @@
 import gradio as gr
 
-from test_textgeneration import TextGenerate
+from logic_textgeneration import TextGenerate
 
 textGen = TextGenerate()
 
